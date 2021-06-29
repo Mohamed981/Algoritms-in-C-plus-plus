@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1610469038 source:c:\users\amir\desktop\cb\testt\main.cpp
+	<Windows.h>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+	<unordered_map>
+	<string>
+	<vector>
+	<algorithm>
+	<queue>
+	<bits/stdc++.h>
+
+1610477082 source:d:\users\muhammmad akram\downloads\compressed\project\testt\main.cpp
+	<Windows.h>
+	<sys/stat.h>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+	<unordered_map>
+	<string>
+	<vector>
+	<algorithm>
+	<chrono>
+	<queue>
+	<bits/stdc++.h>
+
+1610477082 source:d:\users\muhammmad akram\downloads\compressed\project\algorithm project\main.cpp
+	<Windows.h>
+	<sys/stat.h>
+	<dirent.h>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iomanip>
+	<unordered_map>
+	<string>
+	<vector>
+	<algorithm>
+	<chrono>
+	<queue>
+	<bits/stdc++.h>
+
