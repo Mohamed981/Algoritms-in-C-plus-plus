@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1583138987 source:c:\users\muhammmad akram\documents\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1583626230 source:c:\users\muhammmad akram\documents\sorting\main.cpp
+	<iostream>
+	<time.h>
+	<fstream>
+	<bits/stdc++.h>
+
