@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1585254541 source:c:\users\muhammmad akram\documents\rbtree\main.cpp
+	<iostream>
+	"Node.h"
+	<stdlib.h>
+	<stdio.h>
+
+1585238114 c:\users\muhammmad akram\documents\rbtree\node.h
+
+1585252520 source:c:\users\muhammmad akram\documents\rbtree\node.cpp
+	"Node.h"
+	<stdlib.h>
+	<stdio.h>
+
+1585779019 source:c:\users\adel\documents\rbtree\main.cpp
+	<iostream>
+	"Node.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+
+1585584131 c:\users\adel\documents\rbtree\node.h
+
+1585584145 source:c:\users\adel\documents\rbtree\node.cpp
+	"Node.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1585584145 source:d:\users\muhammmad akram\downloads\rbtree(1)\rbtree\node.cpp
+	"Node.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1585584131 d:\users\muhammmad akram\downloads\rbtree(1)\rbtree\node.h
+
+1585782199 source:d:\users\muhammmad akram\downloads\rbtree(1)\rbtree\main.cpp
+	<iostream>
+	"Node.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<fstream>
+
+1585787515 source:d:\users\muhammmad akram\downloads\rbtree\main.cpp
+	<iostream>
+	"Node.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<malloc.h>
+	<fstream>
+
+1585584131 d:\users\muhammmad akram\downloads\rbtree\node.h
+
+1585584145 source:d:\users\muhammmad akram\downloads\rbtree\node.cpp
+	"Node.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
