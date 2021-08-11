@@ -2,12 +2,7 @@
 
 using namespace std;
 /*
-STEPS
-1.Visualize the Problem
-2.Find an appropriate subproblem
-3.Find relationships among subproblems
-4.Generalize the relashionship
-5.Im plement by solving subproblems in order
+Stacks 
 */
 bool sortcol( const vector<int>& v1,
                const vector<int>& v2 ) {
